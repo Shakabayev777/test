@@ -1,0 +1,56 @@
+.bottom {
+    position: relative;
+    padding-top: 40px;
+}
+.quote{
+    border: 15px solid gold ;
+    width: 100%;
+    padding-bottom: 50px;
+}
+.quote-day {
+    position: relative;
+    font-size: 36px;
+    border: gold 1px;
+    margin-top: -30px;
+    background-color: white;
+    width: 400px;
+    margin-left: 500px;
+}
+.quote-text {
+    padding-top: 30px;
+    font-family: Merriweather,serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.quote-author {
+    font-weight: bold;
+}
+.bottom-nav {
+    display: flex;
+    font: 700 16px Merriweather,serif;
+    padding: 15px 15px;
+    text-align: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #e2e2e2;
+    border-top: 1px solid #e2e2e2;
+}
+.bottom-nav-text {
+    font-weight: bolder;
+    font-size: 24px;
+}
+.bottom-nav-img {
+    width: 20px;
+    height: 20px;
+    margin-right: 30px;
+}
+.bottom-images {
+    padding-top: 20px;
+    display: flex;
+}
+.bottom-image{
+    width:450px;
+    height: 288px;
+}
+.bottom-image-2 {
+    margin-left: 35px;
+}

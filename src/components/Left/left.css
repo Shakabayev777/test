@@ -1,0 +1,89 @@
+.left {
+    padding-top: 20px;
+    display: flex;
+}
+.content {
+  padding-right: 20px;
+}
+.main-content {
+    margin-left: -120px;
+}
+.main-title {
+    width: 600px;
+    margin-left: 250px;
+    align-content: center;
+    white-space: normal;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.main-author {
+    margin-left: -300px;
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.author {
+    margin-left: 5px;
+    font-weight: bold;
+}
+.staff {
+    font-size: 12px;
+}
+.main-desc {
+    width: 700px;
+    font-size: 16px;
+    margin-left: 220px;
+}
+.main-img {
+    margin-left: 120px;
+    height: 500px;
+    width: 900px;
+    display: flex;
+}
+.hr {
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.boxes {
+    display: flex;
+    padding-top: 20px;
+    text-align: left;
+}
+.first {
+    width: 400px;
+}
+.first-image img{
+    width: 400px;
+    height: 200px;
+}
+.first-title {
+    padding-top: 10px;
+    font-weight: bolder;
+    font-size: 24px;
+}
+.first-desc {
+    font-size: 20px;
+}
+.Forbes {
+    padding-top: 20px;
+    font-weight: bold;
+}
+.second {
+    margin-left: 100px;
+    width: 400px;
+}
+.second-image img{
+    width: 400px;
+    height: 200px;
+}
+.second-title {
+    padding-top: 10px;
+    font-weight: bolder;
+    font-size: 24px;
+}
+.second-desc {
+    font-size: 20px;
+}
+
+
